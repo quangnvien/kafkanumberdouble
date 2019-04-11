@@ -2,7 +2,7 @@
 A simple demonstration of Kafka messaging system.
 
 ## Description
-A number consumer that consumes numbers from a Kafka topic and double it.
+A number consumer that consumes numbers from a Kafka topic and double it. Running this with [kafkanumbertriple](https://github.com/quangnvien/kafkanumbertriple) to see how different Kafka consuming services work. Both services consume the same Kafka topic.
 
 ## Usage
 ```bash
